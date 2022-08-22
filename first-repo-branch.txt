@@ -1,6 +1,5 @@
 Quotes
 No one was stronger than me even when i go easy on them
--by KA 2020
+-by KA 2022
 > Javascript
-> Python
-> Tableau
+> Laravel
