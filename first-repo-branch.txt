@@ -2,4 +2,4 @@ Quotes
 No one was stronger than me even when i go easy on them
 -by KA 2022
 > Javascript
-> Laravel
+> React JS
